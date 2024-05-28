@@ -29,10 +29,14 @@ python3 index.py
 ```
 
 2. The main menu will appear, allowing you to choose between shredding a file or a folder. 
-![image](https://github.com/pin-z/PyShredder/assets/76646611/d335b152-3997-49fd-b1ea-583a51d907f4)
+
+![image](https://github.com/pin-z/PyShredder/assets/76646611/c234f8fb-c90f-415b-b3a8-44fd8f65ea40)
+
 3. Select the file or folder you want to shred.
-4. Choose a shredding method (e.g., 3-pass DoD, Gutmann, etc.). 
-![image](https://github.com/pin-z/PyShredder/assets/76646611/58d34c31-2cc6-479a-93f4-0b4abde79661)
+4. Choose a shredding method (e.g., 3-pass DoD, Gutmann, etc.).     
+
+![image](https://github.com/pin-z/PyShredder/assets/76646611/71492bcd-ea19-42aa-bdb0-c902e548a068)
+
 5. Confirm the shredding process.
 6. The selected file/folder will be securely shredded.
    
